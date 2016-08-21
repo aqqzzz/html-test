@@ -2,7 +2,7 @@
 * @Author: Administrator
 * @Date:   2016-08-21 15:39:10
 * @Last Modified by:   Administrator
-* @Last Modified time: 2016-08-21 17:22:08
+* @Last Modified time: 2016-08-21 17:32:15
 */
 * {
 	box-sizing: border-box;
@@ -63,7 +63,7 @@ body {
 
 #main-content .row .pag {
 	width:90%;
-	background-color: #ccff99;
+	background-color: #ffff99;
 	color:#000;
 	margin-top: 15px;
 	margin-bottom: 15px;
