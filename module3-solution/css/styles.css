@@ -1,0 +1,77 @@
+/*
+* @Author: Administrator
+* @Date:   2016-08-21 15:39:10
+* @Last Modified by:   Administrator
+* @Last Modified time: 2016-08-21 17:22:08
+*/
+* {
+	box-sizing: border-box;
+	font-family: Helvetica;
+}
+
+body {
+	font-size: 16px;
+	color: #fff;
+	background-color: #99cccc;
+	font-family: 'Oxygen', sans-serif;
+}
+
+/**Header**/
+#header-nav {
+	background-color: #ccffcc;
+	border: 0;
+	border-radius: 0;
+	min-height: 75px;
+}
+
+.navbar-brand {
+	padding-top:25px;
+}
+
+.navbar-brand h1 {
+	color: #666699;
+	font-size: 1.5em;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 0;
+	margin-bottom: 0;
+
+	line-height: .75;
+
+}
+
+#nav-list {
+	margin-top: 10px;
+	text-align: center;
+}
+
+
+.navbar-toggle {
+	border: 1px solid #ccffcc;
+	clear: both;
+	margin-top: -30px;
+}
+
+/** main content **/
+#main-content {
+
+}
+
+#main-content h1{
+	text-align: center;
+	font-size: 1.5em;
+}
+
+#main-content .row .pag {
+	width:90%;
+	background-color: #ccff99;
+	color:#000;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	margin-left: 4.165%;
+	margin-right: auto;
+}
+
+#main-content .section-title {
+	text-align: center;
+	font-size: 1.1em;
+}
